@@ -1,7 +1,7 @@
 # teacherFinder
 Busca profesores en un video usando darknet y la opencv
 
-#instalacion
+## instalacion
 Para que esta herramienta funcione necesitas instalar los requsitos 
 ```sh
 pip install -r requirements.txt
